@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{95f5002d-e04e-4cf4-8998-b13cee17ce25}">
+		<property name="assetPath">
+			<value>Audio/AudioAssets/OneShots/Doors/SlideDoor/NALS_OpenSlideDoor-002.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47f127c6-a347-4a18-95a9-b3d9aab44ea5}</destination>
+		</relationship>
+	</object>
+</objects>

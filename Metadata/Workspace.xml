@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{8b814d31-cc93-4497-af8d-e5cbdcd77f69}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../AdventurersQuest/Assets/Audio/FMOD/Banks</value>
+		</property>
+		<property name="builtBanksSeparateAssets">
+			<value>true</value>
+		</property>
+		<property name="builtBanksSeparateStreams">
+			<value>true</value>
+		</property>
+		<property name="builtBanksEncryptionKey" />
+		<relationship name="masterEventFolder">
+			<destination>{ce70bc65-09aa-4493-a152-147ce1c82941}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{451f101b-4668-4dab-9821-72754252ac8f}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{2adea6d6-d13d-4eec-86bd-5244ff0a8d97}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{02843300-52ed-449d-8096-60d380518bfb}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{93922b03-ac60-4f72-b8dc-403f8df3b13e}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{b42dce83-a9fa-49a2-aaf1-4d9773dc0f65}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{47f127c6-a347-4a18-95a9-b3d9aab44ea5}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{fe518a29-4758-44d5-99cf-00dd142a7035}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{8e4b3d18-d79b-4689-82f2-f965a2b0daa9}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b97af7a7-e884-4adf-93d2-b2c6d14b3584}</destination>
+		</relationship>
+	</object>
+</objects>
