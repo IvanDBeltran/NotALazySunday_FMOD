@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{eff4f465-c09c-49b5-90f0-fc31c0d85fed}">
+		<property name="assetPath">
+			<value>AudioAssets/OneShots/Doors/MetalDoor/NALS_CloseMetalDoor-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.65258333333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47f127c6-a347-4a18-95a9-b3d9aab44ea5}</destination>
+		</relationship>
+	</object>
+</objects>

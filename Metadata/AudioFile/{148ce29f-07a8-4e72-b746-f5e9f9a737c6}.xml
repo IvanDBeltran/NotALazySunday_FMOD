@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{148ce29f-07a8-4e72-b746-f5e9f9a737c6}">
+		<property name="assetPath">
+			<value>AudioAssets/OneShots/Doors/FenceDoor/NALS_CloseFenceDoor-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3538541666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47f127c6-a347-4a18-95a9-b3d9aab44ea5}</destination>
+		</relationship>
+	</object>
+</objects>

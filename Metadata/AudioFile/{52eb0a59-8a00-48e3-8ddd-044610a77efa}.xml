@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{52eb0a59-8a00-48e3-8ddd-044610a77efa}">
+		<property name="assetPath">
+			<value>AudioAssets/Loopables/Ambiences/NALZ_AMB_Island_LP-002.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.666666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47f127c6-a347-4a18-95a9-b3d9aab44ea5}</destination>
+		</relationship>
+	</object>
+</objects>
